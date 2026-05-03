@@ -1,4 +1,4 @@
-# ❄️ macOS Nix Dotfiles
+# ❄️ Nix Dotfiles
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=NixOS&logoColor=white)
