@@ -6,6 +6,7 @@
   home.packages = with pkgs; [
     ghostty-bin
     fastfetch
+    alejandra
   ];
 
   xdg.configFile."ghostty/config".text = ''

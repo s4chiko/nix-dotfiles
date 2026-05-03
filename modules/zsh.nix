@@ -20,6 +20,10 @@
     enableZshIntegration = true;
   };
 
+  programs.starship.settings = {
+    command_timeout = 2000;
+  };
+
   programs.direnv = {
     enable = true;
     enableZshIntegration = true;
